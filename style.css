@@ -26,6 +26,7 @@ body {
     padding: 0.6em 1.2em;
     font-size: 1em;
     background-color: #2ea44f;
+
     color: white;
     border: none;
     border-radius: 5px;
@@ -47,5 +48,6 @@ body {
     background: #e1e4e8;
     text-align: center;
     padding: 1em;
+
   }
   
